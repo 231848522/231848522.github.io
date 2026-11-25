@@ -1,0 +1,48 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:-137px;
+  width:816px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u159_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:816px;
+  height:875px;
+}
+#u159 {
+  border-width:0px;
+  position:absolute;
+  left:137px;
+  top:46px;
+  width:816px;
+  height:875px;
+  display:flex;
+}
+#u159 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u159_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
